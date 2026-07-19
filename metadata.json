@@ -1,0 +1,6 @@
+{
+  "name": "Custom Cake Bakery",
+  "description": "A premium, dark elegant custom cake bakery website with an appetizing gallery, interactive order builder, and WhatsApp contact integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
